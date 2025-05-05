@@ -1,0 +1,44 @@
+{
+  "accounts": [
+    {
+      "id": "ui0D-NoQO",
+      "title": "朋友还钱",
+      "time": "2025-04-12",
+      "type": "1",
+      "account": "2000",
+      "remarks": "终于还钱啦"
+    },
+    {
+      "id": "JndXJph0Y",
+      "title": "发工资",
+      "time": "2025-04-10",
+      "type": "1",
+      "account": "6000",
+      "remarks": "终于发工资啦"
+    },
+    {
+      "id": "Dm-u_aK3L",
+      "title": "买鼠标啊",
+      "time": "2025-04-03",
+      "type": "-1",
+      "account": "30",
+      "remarks": "网上购买"
+    },
+    {
+      "id": "RxsuUr8oW",
+      "title": "买耳机",
+      "time": "2025-04-02",
+      "type": "-1",
+      "account": "300",
+      "remarks": "网上购买"
+    },
+    {
+      "id": "73b2aoOW9",
+      "title": "买手机",
+      "time": "2025-04-02",
+      "type": "-1",
+      "account": "3000",
+      "remarks": "网上购买"
+    }
+  ]
+}
